@@ -1,0 +1,28 @@
+{
+  "name": "img-loader",
+  "version": "1.0.0",
+  "author": {
+    "name": "EastLee"
+  },
+  "description": "img-loader module for webpack",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "loader-utils": "~0.2.5"
+  },
+  "devDependencies": {
+    "should": "~4.0.4",
+    "mocha": "~1.21.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EastLee/img-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EastLee/img-loader/issues"
+  },
+  "homepage": "https://github.com/EastLee/img-loader",
+  "main": "index.js",
+  "license": "MIT"
+}
