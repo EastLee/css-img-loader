@@ -1,10 +1,10 @@
 {
-  "name": "img-loader",
+  "name": "css-img-loader",
   "version": "1.0.0",
   "author": {
     "name": "EastLee"
   },
-  "description": "img-loader module for webpack",
+  "description": "css-img-loader module for webpack",
   "files": [
     "index.js"
   ],
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EastLee/img-loader.git"
+    "url": "https://github.com/EastLee/css-img-loader.git"
   },
   "bugs": {
-    "url": "https://github.com/EastLee/img-loader/issues"
+    "url": "https://github.com/EastLee/css-img-loader/issues"
   },
-  "homepage": "https://github.com/EastLee/img-loader",
+  "homepage": "https://github.com/EastLee/css-img-loader",
   "main": "index.js",
   "license": "MIT"
 }
